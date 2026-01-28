@@ -1,24 +1,23 @@
-  """Base scraper class with common functionality."""
+"""Base scraper class with common functionality."""
 
-  import logging
-  import random
-  import time
-  from abc import ABC, abstractmethod
-  from typing import List, Optional
+import logging
+import random
+import time
+from abc import ABC, abstractmethod
+from typing import List, Optional
 
-  import requests
-  from bs4 import BeautifulSoup
+import requests
+from bs4 import BeautifulSoup
 
-  from ..config import RATE_LIMITS
-  from ..models import ScrapedRelease
+from ..config import RATE_LIMITS
+from ..models import ScrapedRelease
 
 
-  class ScraperError(Exception):
+class ScraperError(Exception):
       """Base exception for scraper errors."""
       pass
 
-
-  class BaseScraper(ABC):
+class BaseScraper(ABC):
       """Abstract base class for all scrapers."""
 
       SOURCE_NAME: str = ""
