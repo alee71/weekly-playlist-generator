@@ -1,4 +1,4 @@
- """Match scraped releases to Spotify search links."""
+  """Match scraped releases to Spotify search links."""
 
   import logging
   import urllib.parse
