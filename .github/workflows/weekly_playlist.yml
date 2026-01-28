@@ -1,9 +1,9 @@
- name: Generate Weekly Playlist
+  name: Generate Weekly Playlist
 
   on:
     workflow_dispatch:
     schedule:
-      - cron: "0 12 * * 5"
+      - cron: '0 12 * * 5'
 
   jobs:
     generate-playlist:
@@ -15,7 +15,7 @@
 
         - uses: actions/setup-python@v5
           with:
-            python-version: "3.11"
+            python-version: '3.11'
 
         - name: Install dependencies
           run: |
