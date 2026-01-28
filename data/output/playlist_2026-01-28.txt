@@ -1,86 +1,71 @@
 Weekly Playlist - 2026-01-28
-Total tracks: 9
-Priority tracks (multiple sources): 7
+Total items: 9
 ======================================================================
 
-=== PRIORITY TRACKS (Recommended by Multiple Sources) ===
+### PRIORITY - Multiple Sources ###
 
-  * Peanut - [Album: Otto Benson Peanut]
-    Album: Otto Benson Peanut
-    Sources: Pitchfork Best New Albums
+* Peanut - [Album: Otto Benson Peanut]
+  Sources: Pitchfork Best New Albums
+  Search: https://open.spotify.com/search/Peanut%20Otto%20Benson%20Peanut
 
-  * Marty Supreme (Original Soundtrack) - [Album: Daniel Lopatin Marty Supreme Original Soundtrack]
-    Album: Daniel Lopatin Marty Supreme Original Soundtrack
-    Sources: Pitchfork Best New Albums
+* Marty Supreme (Original Soundtrack) - [Album: Daniel Lopatin Marty Supreme Original Soundtrack]
+  Sources: Pitchfork Best New Albums
+  Search: https://open.spotify.com/search/Marty%20Supreme%20%28Original%20Soundtrack%29%20Daniel%20Lopatin%20Marty%20Supreme%20Original%20Soundtrack
 
-  * I Tried to Tell You - [Album: Kp Skywalka I Tried To Tell You]
-    Album: Kp Skywalka I Tried To Tell You
-    Sources: Pitchfork Best New Albums
+* I Tried to Tell You - [Album: Kp Skywalka I Tried To Tell You]
+  Sources: Pitchfork Best New Albums
+  Search: https://open.spotify.com/search/I%20Tried%20to%20Tell%20You%20Kp%20Skywalka%20I%20Tried%20To%20Tell%20You
 
-  * “Hard” - “Hard”
-    Sources: Pitchfork Best New Tracks
+* “Hard” - “Hard”
+  Sources: Pitchfork Best New Tracks
+  Search: https://open.spotify.com/search/%E2%80%9CHard%E2%80%9D%20%E2%80%9CHard%E2%80%9D
 
-  * “Dopamine” - “Dopamine”
-    Sources: Pitchfork Best New Tracks
+* “Dopamine” - “Dopamine”
+  Sources: Pitchfork Best New Tracks
+  Search: https://open.spotify.com/search/%E2%80%9CDopamine%E2%80%9D%20%E2%80%9CDopamine%E2%80%9D
 
-  * “Nuketown Blues” - “Nuketown Blues”
-    Sources: Pitchfork Best New Tracks
+* “Nuketown Blues” - “Nuketown Blues”
+  Sources: Pitchfork Best New Tracks
+  Search: https://open.spotify.com/search/%E2%80%9CNuketown%20Blues%E2%80%9D%20%E2%80%9CNuketown%20Blues%E2%80%9D
 
-  * “Sé Miimii” [ft. DJ Skycee] - “Sé Miimii” [ft. DJ Skycee]
-    Sources: Pitchfork Best New Tracks
+* “Sé Miimii” [ft. DJ Skycee] - “Sé Miimii” [ft. DJ Skycee]
+  Sources: Pitchfork Best New Tracks
+  Search: https://open.spotify.com/search/%E2%80%9CS%C3%A9%20Miimii%E2%80%9D%20%5Bft.%20DJ%20Skycee%5D%20%E2%80%9CS%C3%A9%20Miimii%E2%80%9D%20%5Bft.%20DJ%20Skycee%5D
 
-======================================================================
+### FULL PLAYLIST ###
 
-=== FULL PLAYLIST ===
-(Tracks from the same album are grouped together)
+1. Peanut - Otto Benson Peanut
+   Source: Pitchfork Best New Albums
+   Search: https://open.spotify.com/search/Peanut%20Otto%20Benson%20Peanut
 
-  [Peanut - Otto Benson Peanut]
-      1. [Album: Otto Benson Peanut]
+2. Marty Supreme (Original Soundtrack) - Daniel Lopatin Marty Supreme Original Soundtrack
+   Source: Pitchfork Best New Albums
+   Search: https://open.spotify.com/search/Marty%20Supreme%20%28Original%20Soundtrack%29%20Daniel%20Lopatin%20Marty%20Supreme%20Original%20Soundtrack
 
-  [Marty Supreme (Original Soundtrack) - Daniel Lopatin Marty Supreme Original Soundtrack]
-      2. [Album: Daniel Lopatin Marty Supreme Original Soundtrack]
+3. I Tried to Tell You - Kp Skywalka I Tried To Tell You
+   Source: Pitchfork Best New Albums
+   Search: https://open.spotify.com/search/I%20Tried%20to%20Tell%20You%20Kp%20Skywalka%20I%20Tried%20To%20Tell%20You
 
-  [I Tried to Tell You - Kp Skywalka I Tried To Tell You]
-      3. [Album: Kp Skywalka I Tried To Tell You]
+4. Tranquilizer - Oneohtrix Point Never Tranquilizer
+   Source: Pitchfork Best New Albums
+   Search: https://open.spotify.com/search/Tranquilizer%20Oneohtrix%20Point%20Never%20Tranquilizer
 
-  [Tranquilizer - Oneohtrix Point Never Tranquilizer]
-      4. [Album: Oneohtrix Point Never Tranquilizer]
+5. “Hard” - “Hard”
+   Source: Pitchfork Best New Tracks
+   Search: https://open.spotify.com/search/%E2%80%9CHard%E2%80%9D%20%E2%80%9CHard%E2%80%9D
 
-    5. “Hard” - “Hard”
-       Source: Pitchfork Best New Tracks
-    6. “Dopamine” - “Dopamine”
-       Source: Pitchfork Best New Tracks
-    7. “Nuketown Blues” - “Nuketown Blues”
-       Source: Pitchfork Best New Tracks
-    8. “Sé Miimii” [ft. DJ Skycee] - “Sé Miimii” [ft. DJ Skycee]
-       Source: Pitchfork Best New Tracks
-  [Watching From a Distance (Reissue) - Watching From a Distance (Reissue)]
-      9. [Album: Watching From a Distance (Reissue)]
+6. “Dopamine” - “Dopamine”
+   Source: Pitchfork Best New Tracks
+   Search: https://open.spotify.com/search/%E2%80%9CDopamine%E2%80%9D%20%E2%80%9CDopamine%E2%80%9D
 
-======================================================================
-=== SPOTIFY URIs ===
-Copy all URIs below and paste into Spotify desktop app:
+7. “Nuketown Blues” - “Nuketown Blues”
+   Source: Pitchfork Best New Tracks
+   Search: https://open.spotify.com/search/%E2%80%9CNuketown%20Blues%E2%80%9D%20%E2%80%9CNuketown%20Blues%E2%80%9D
 
-Instructions:
-1. Open Spotify desktop app
-2. Create a new playlist or open your existing weekly playlist
-3. Select and copy all URIs below (Ctrl+A, Ctrl+C)
-4. Click inside the playlist and paste (Ctrl+V)
+8. “Sé Miimii” [ft. DJ Skycee] - “Sé Miimii” [ft. DJ Skycee]
+   Source: Pitchfork Best New Tracks
+   Search: https://open.spotify.com/search/%E2%80%9CS%C3%A9%20Miimii%E2%80%9D%20%5Bft.%20DJ%20Skycee%5D%20%E2%80%9CS%C3%A9%20Miimii%E2%80%9D%20%5Bft.%20DJ%20Skycee%5D
 
---- START URIS ---
---- END URIS ---
-
-======================================================================
-=== MANUAL SEARCH NEEDED ===
-These tracks couldn't be automatically matched.
-Search for them manually in Spotify:
-
-  - Peanut - [Album: Otto Benson Peanut]
-  - Marty Supreme (Original Soundtrack) - [Album: Daniel Lopatin Marty Supreme Original Soundtrack]
-  - I Tried to Tell You - [Album: Kp Skywalka I Tried To Tell You]
-  - Tranquilizer - [Album: Oneohtrix Point Never Tranquilizer]
-  - “Hard” - “Hard”
-  - “Dopamine” - “Dopamine”
-  - “Nuketown Blues” - “Nuketown Blues”
-  - “Sé Miimii” [ft. DJ Skycee] - “Sé Miimii” [ft. DJ Skycee]
-  - Watching From a Distance (Reissue) - [Album: Watching From a Distance (Reissue)]
+9. Watching From a Distance (Reissue) - Watching From a Distance (Reissue)
+   Source: Pitchfork Sunday Review
+   Search: https://open.spotify.com/search/Watching%20From%20a%20Distance%20%28Reissue%29%20Watching%20From%20a%20Distance%20%28Reissue%29
