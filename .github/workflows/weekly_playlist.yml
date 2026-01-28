@@ -12,8 +12,6 @@
         contents: write
       steps:
         - uses: actions/checkout@v4
-          with:
-            ref: master
 
         - uses: actions/setup-python@v5
           with:
@@ -28,14 +26,14 @@
         - name: Run generator
           run: python -m src.main
 
-        - name: Commit changes
+        - name: Commit and push
           run: |
             git config user.email "actions@github.com"
             git config user.name "github-actions"
-            git pull --rebase origin master
             git add data/
-            git diff --staged --quiet || git commit -m "Update playlist"
-            git push
+            git commit -m "Update playlist" || echo "No changes to commit"
+            git pull --rebase origin master || true
+            git push || echo "Nothing to push"
 
         - uses: actions/upload-artifact@v4
           with:
