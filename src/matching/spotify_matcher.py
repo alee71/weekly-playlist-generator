@@ -1,16 +1,16 @@
 """Match scraped releases to Spotify search links."""
 
-  import logging
-  import urllib.parse
-  from typing import List
+import logging
+import urllib.parse
+from typing import List
 
-  from ..config import TRACKS_PER_ALBUM_MAX
-  from ..models import PlaylistItem, ScrapedRelease
+from ..config import TRACKS_PER_ALBUM_MAX
+from ..models import PlaylistItem, ScrapedRelease
 
-  logger = logging.getLogger(__name__)
+logger = logging.getLogger(__name__)
 
 
-  class SpotifyMatcher:
+class SpotifyMatcher:
       """Generate Spotify search links for scraped releases."""
 
       def __init__(self):
