@@ -1,16 +1,16 @@
 """Output generation for playlist files."""
 
-  import logging
-  from datetime import datetime
-  from pathlib import Path
-  from typing import List
+import logging
+from datetime import datetime
+from pathlib import Path
+from typing import List
 
-  from ..models import PlaylistItem
+from ..models import PlaylistItem
 
-  logger = logging.getLogger(__name__)
+logger = logging.getLogger(__name__)
 
 
-  class OutputGenerator:
+class OutputGenerator:
       """Generate playlist output file."""
 
       def __init__(self, output_dir: Path):
