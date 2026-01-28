@@ -12,6 +12,8 @@
         contents: write
       steps:
         - uses: actions/checkout@v4
+          with:
+            ref: master
 
         - uses: actions/setup-python@v5
           with:
@@ -30,6 +32,13 @@
           run: |
             git config user.email "actions@github.com"
             git config user.name "github-actions"
+            git pull --rebase origin master
             git add data/
             git diff --staged --quiet || git commit -m "Update playlist"
             git push
+
+        - uses: actions/upload-artifact@v4
+          with:
+            name: weekly-playlist
+            path: data/output/playlist_*.txt
+            retention-days: 30
